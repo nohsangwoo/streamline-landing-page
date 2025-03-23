@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "아마네 소프트 - 최첨단 소프트웨어 솔루션",
   description: "아마네 소프트는 미래 기업을 위한 혁신적이고 고성능 소프트웨어 솔루션을 제공합니다.",
-    generator: 'v0.dev'
+    generator: 'ludgi'
 }
 
 export default function RootLayout({
